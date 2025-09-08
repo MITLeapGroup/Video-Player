@@ -1,0 +1,12 @@
+{
+  "name": "com.MITmech.videoplayer",
+  "displayName": "Propietary Video Player",
+  "version": "1.0.0",
+  "unity": "6000.1",
+  "description": "A reusable video player prefab with controller scripts.",
+  "author": {
+    "name": "Lucas Balfanz",
+    "url": "https://github.com/lukeseba"
+  },
+  "keywords": ["video", "player", "ui"]
+}
