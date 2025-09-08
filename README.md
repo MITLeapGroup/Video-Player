@@ -16,9 +16,19 @@ To ensure Unity can automatically resolve the OpenAI and Utilities packages, you
 
 ```json
 "scopedRegistries": [
-  {
+{
     "name": "OpenUPM",
     "url": "https://package.openupm.com",
-    "scopes": ["com.utilities", "io.openai"]
+    "scopes": [
+      "com.openai",
+      "com.openai.unity",
+      "com.utilities",
+      "com.utilities.async",
+      "com.utilities.audio",
+      "com.utilities.encoder.wav",
+      "com.utilities.extensions",
+      "com.utilities.rest",
+      "com.utilities.websockets"
+    ]
   }
 ]
