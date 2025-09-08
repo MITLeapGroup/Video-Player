@@ -8,5 +8,15 @@
     "name": "Lucas Balfanz",
     "url": "https://github.com/lukeseba"
   },
-  "keywords": ["video", "player", "ui"]
+  "keywords": ["video", "player", "ui"],
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6",
+    "io.openai.unity": "1.0.0",
+    "com.utilities.async": "2.2.3",
+    "com.utilities.audio": "2.2.7",
+    "com.utilities.encoder.ogg": "2.2.3",
+    "com.utilities.extensions": "1.3.0",
+    "com.utilities.rest": "3.3.8",
+    "com.utilities.websockets": "1.0.5"
+  }
 }
