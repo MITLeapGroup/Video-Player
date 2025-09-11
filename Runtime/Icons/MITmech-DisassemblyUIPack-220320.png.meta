@@ -1,0 +1,1052 @@
+fileFormatVersion: 2
+guid: 2929d64a331114620be5a91a780f484b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3003
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faa257853c1449e0af5f5ff5c9a0cac
+      internalID: -1670497422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_1
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 3003
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd24d0e82ee844deeb5ea144c1ede8b0
+      internalID: 1565993723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_2
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3003
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b590a70831a44f2a625a1b857a2692
+      internalID: -297036868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_3
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 3003
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76304fdf7aa2544f0973ca4f61b1eb55
+      internalID: -1612853798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_4
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3003
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39938936cd13f41e788e8dda36669c95
+      internalID: 2127947627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_5
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 3003
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe876adad436b43d89cc1b3b3e294600
+      internalID: -1006252843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_6
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3003
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160da54bd6b4e4de28e80e3125c30bd5
+      internalID: -1876289336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_7
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 3003
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1bd9eca4daf47d6a68deb9d37dc1ca
+      internalID: 1799526526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2253
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c583f81499605479193121e5a75e1309
+      internalID: 1087881306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_9
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2253
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8b24c95cb974673a5f49abee51662a
+      internalID: 650648452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_10
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2253
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ebd0dac2cbd46a3862f5dd34e4f45a
+      internalID: -340659431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_11
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2253
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4775cd09434420e8640efd1390e91b
+      internalID: 1383587388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_12
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2253
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064b93ef105cf4d028d6afb745fce396
+      internalID: 85453687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_13
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 2253
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968e27acc02094e8ea347401ba468a1a
+      internalID: -1997961980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_14
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2253
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6f1736c278b4dcdbc817391d5776ac
+      internalID: -1778662122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_15
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 2253
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df1b4d959123429988c9723b912b5ab
+      internalID: -628884577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1503
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11765f8fffb8546c4b9549f15ee34748
+      internalID: -1409045805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_17
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1503
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242324c1886e2447b96cd7b7006fba36
+      internalID: -1731273987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_18
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1503
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b01069b6ab34a11b2367381dfd1164
+      internalID: -861142023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_19
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1503
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de35fe36d53441f099f233062853308
+      internalID: -1512119256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_20
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1503
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5559a1c2ecd143ec87fda7bdea16286
+      internalID: 1171649616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_21
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 1503
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65e9c4b6b64044efa19911dc8e717ef
+      internalID: 1410738949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_22
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1503
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9f22d9e2902410c941f46269913e02
+      internalID: 1033285543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_23
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 1503
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c753209823b4a0c8763bb11340afc5
+      internalID: 1941457717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 753
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9b58bf7b87c43c4bc6b879e625f416
+      internalID: -559035627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_25
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 753
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2de44d0153564b2e90e424f9c1ac646
+      internalID: 1135658705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_26
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 753
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec1b6845c80c4212bb28f722ceaf219
+      internalID: 1003816605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_27
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 753
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b4a92a6122942799a3c7da629a94cb
+      internalID: -109722639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_28
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 753
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b76022f5351a4693ae6c25b8a8cd5b5
+      internalID: -1049874158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_29
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 753
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418bf23cce0db4230b7edc6d53711149
+      internalID: 600173613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_30
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 753
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fca46574d7c242e184edd01ff82cde1
+      internalID: 1448438978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_31
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 753
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99b4d8be64bf45179648480e363508b
+      internalID: 2090246381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5b002236b6b4519847142ecc7a4943
+      internalID: -589313490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_33
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 3
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbac7045e7c048959f06199eb410f79
+      internalID: -1743872145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_34
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac4b7ab704894e71bcf107a35d65b22
+      internalID: -303892444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_35
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 3
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c494b8855a904ec9b99c561bbf74b4e
+      internalID: 123581622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_36
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9182783cc14bd4688828a2601d5a6117
+      internalID: 1005097464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_37
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 3
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6430757df85224aa1837c8849f57dab9
+      internalID: -1611392155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_38
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bab3cc6b0c5747259eb3a377dbb9537
+      internalID: 821406322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MITmech-DisassemblyUIPack-220320_39
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 3
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b00afe299ac42399fff84efa3ae11b
+      internalID: -2126298608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f7258afead51d4ae9a5ad705254892d7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":5.0},"gridSpriteSize":{"x":750.0,"y":750.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      MITmech-DisassemblyUIPack-220320_0: -1670497422
+      MITmech-DisassemblyUIPack-220320_1: 1565993723
+      MITmech-DisassemblyUIPack-220320_10: -340659431
+      MITmech-DisassemblyUIPack-220320_11: 1383587388
+      MITmech-DisassemblyUIPack-220320_12: 85453687
+      MITmech-DisassemblyUIPack-220320_13: -1997961980
+      MITmech-DisassemblyUIPack-220320_14: -1778662122
+      MITmech-DisassemblyUIPack-220320_15: -628884577
+      MITmech-DisassemblyUIPack-220320_16: -1409045805
+      MITmech-DisassemblyUIPack-220320_17: -1731273987
+      MITmech-DisassemblyUIPack-220320_18: -861142023
+      MITmech-DisassemblyUIPack-220320_19: -1512119256
+      MITmech-DisassemblyUIPack-220320_2: -297036868
+      MITmech-DisassemblyUIPack-220320_20: 1171649616
+      MITmech-DisassemblyUIPack-220320_21: 1410738949
+      MITmech-DisassemblyUIPack-220320_22: 1033285543
+      MITmech-DisassemblyUIPack-220320_23: 1941457717
+      MITmech-DisassemblyUIPack-220320_24: -559035627
+      MITmech-DisassemblyUIPack-220320_25: 1135658705
+      MITmech-DisassemblyUIPack-220320_26: 1003816605
+      MITmech-DisassemblyUIPack-220320_27: -109722639
+      MITmech-DisassemblyUIPack-220320_28: -1049874158
+      MITmech-DisassemblyUIPack-220320_29: 600173613
+      MITmech-DisassemblyUIPack-220320_3: -1612853798
+      MITmech-DisassemblyUIPack-220320_30: 1448438978
+      MITmech-DisassemblyUIPack-220320_31: 2090246381
+      MITmech-DisassemblyUIPack-220320_32: -589313490
+      MITmech-DisassemblyUIPack-220320_33: -1743872145
+      MITmech-DisassemblyUIPack-220320_34: -303892444
+      MITmech-DisassemblyUIPack-220320_35: 123581622
+      MITmech-DisassemblyUIPack-220320_36: 1005097464
+      MITmech-DisassemblyUIPack-220320_37: -1611392155
+      MITmech-DisassemblyUIPack-220320_38: 821406322
+      MITmech-DisassemblyUIPack-220320_39: -2126298608
+      MITmech-DisassemblyUIPack-220320_4: 2127947627
+      MITmech-DisassemblyUIPack-220320_5: -1006252843
+      MITmech-DisassemblyUIPack-220320_6: -1876289336
+      MITmech-DisassemblyUIPack-220320_7: 1799526526
+      MITmech-DisassemblyUIPack-220320_8: 1087881306
+      MITmech-DisassemblyUIPack-220320_9: 650648452
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
