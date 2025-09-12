@@ -52,13 +52,13 @@ public class GenerateCaption : MonoBehaviour
     /// <summary>
     /// OpenAI API key (required for transcription/translation).
     /// </summary>
-    [SerializeField] private string openAIKey = "YOUR_API_KEY";
+    [SerializeField] private string openAIKey; // leave empty to ignore api key and prevent error
 
     [Header("FFmpeg Settings")]
     /// <summary>
     /// Path to the FFmpeg executable (e.g., "ffmpeg" if in PATH).
     /// </summary>
-    [SerializeField] private string ffmpegPath = "ffmpeg"; 
+    [SerializeField] private string ffmpegPath; // leave empty to ignore ffmpeg and prevent error
 
     private VideoClip lastClip;
     private List<float> recordedSamples = new List<float>();
@@ -79,13 +79,13 @@ public class GenerateCaption : MonoBehaviour
     /// </summary>
     private void OnVideoPrepared(VideoPlayer source)
     {
-        if (!File.Exists(directory + videoPlayerManager.languages[0] + "/" + videoPlayer.clip.name + ".txt"))
+        // Begin transcription from generated MP3
+        if (ffmpegPath != "" && !File.Exists(directory + videoPlayerManager.languages[0] + "/" + videoPlayer.clip.name + ".txt"))
         {
             ConvertToAudio(videoPlayer.clip);
-        }
-
-        // Begin transcription from generated MP3
+        }   
         TranscribeAudio(Path.ChangeExtension(AssetDatabase.GetAssetPath(videoPlayer.clip), ".mp3"));
+
     }
 
     /// <summary>
@@ -225,6 +225,7 @@ public class GenerateCaption : MonoBehaviour
 
             if (!File.Exists(ogTranscript))
             {
+                Debug.Log(ogTranscript);
                 var client = new OpenAIClient(openAIKey);
 
                 var request = new AudioTranscriptionRequest(
