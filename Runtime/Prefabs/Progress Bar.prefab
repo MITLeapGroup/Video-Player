@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4467817051736113942}
   - component: {fileID: 9058892839261436272}
   - component: {fileID: 4976189676743090547}
-  - component: {fileID: 1853607534004042895}
+  - component: {fileID: 70653484041023275}
   m_Layer: 0
   m_Name: Progress Bar
   m_TagString: Untagged
@@ -77,7 +77,7 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!114 &1853607534004042895
+--- !u!114 &70653484041023275
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -86,7 +86,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 5847840414810555068}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: adbf63e3cb7754e28b2a4808828b452c, type: 3}
+  m_Script: {fileID: 11500000, guid: 09a6fc03ac8554eb19e234b81971a64c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   filledProgressRectTransform: {fileID: 353316974478292782}
@@ -94,49 +94,13 @@ MonoBehaviour:
   progressBarRectTransform: {fileID: 4467817051736113942}
   pointerDownEvent:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: Manager_VideoPlayer, Assembly-CSharp
-        m_MethodName: onProgressBarDown
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
   pointerUpEvent:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: Manager_VideoPlayer, Assembly-CSharp
-        m_MethodName: onProgressBarUp
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
   pointerDragEvent:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: Manager_VideoPlayer, Assembly-CSharp
-        m_MethodName: onProgressBarDrag
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
   hoverSize: 3
 --- !u!1 &5961604155662558312
 GameObject:
